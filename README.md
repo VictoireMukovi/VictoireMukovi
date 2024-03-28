@@ -1,4 +1,4 @@
-Je suis Victoire de la RDC, vivant à Butembo 🌴, développeur Backend principalement. J'aime vraiment apprendre des langages et des frameworks comme Python, C#, Rust et Django.
+Je suis Victoire de la RDC, vivant à Butembo 🌴, développeur Backend principalement. J'aime vraiment apprendre des langages et des frameworks comme Python, C#, et Django.
 
 Autres:
 
@@ -10,14 +10,7 @@ Autres:
 
 ### Me joindre :
 
-[![img_contact](./img/globe-light.svg)](https://web.facebook.com/victoire.mupikano#gh-light-mode-only)
-[![img_contact](./img/globe-dark.svg)](https://web.facebook.com/victoire.mupikano#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/kasereka-ushindi-b4628a239/#gh-light-mode-only)
-[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kasereka-ushindi-b4628a239/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![img_contact](./img/instagram-light.svg)](https://www.instagram.com/victoirempkn#gh-light-mode-only)
-[![img_contact](./img/instagram-dark.svg)](https://www.instagram.com/victoirempkn#gh-dark-mode-only)
+
 
 
 ### Languages and Tools:
