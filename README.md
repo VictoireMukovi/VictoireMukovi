@@ -1,64 +1,37 @@
-### Hi there 👋
-I create application on the web and share my journey on [Twitter](https://twitter.com/melvynxdev) and [Youtube](https://www.youtube.com/channel/UC5HDIVwuqoIuKKw-WbQ4CvA) !
+Je suis Victoire de la RDC, vivant à Butembo 🌴, développeur Backend principalement. J'aime vraiment apprendre des langages et des frameworks comme Python, C#, Rust et Django.
 
-And... I create online courses in french to help developers to master modern web technologies.
+Autres:
 
-### Contact me
-
-* [Twitter](https://twitter.com/melvynxdev)
-* [Youtube](https://www.youtube.com/channel/UC5HDIVwuqoIuKKw-WbQ4CvA)
-* [Mail](mailto:contact@melvynx.com)
-* [Linkedin](https://www.linkedin.com/in/melvyn-malherbe/)
-
-### My projects
-
-* [Melvynx](https://melvynx.com)
-
-My personal website, where you can find my projects, my blog and my resume.
-
-* [Codelynx](https://codelynx.dev)
-
-My blog and my newsletter website.
-
-* [Codeline](https://app.codelynx.dev)
-
-My online courses plateforme. I created BeginReact, NextReact and BeginJavaScript.
-
-* [Chat2Code](https://chat2code.dev)
-
-A ChatGPT like application that create and generate component directly in the browser. Stop wasting time copy pasting code from ChatGPT to your editor, Chat2Code bring editor in the chat.
-
-* [QuizUp](https://quizup.app)
-
-Create a quiz with multiple choice and open questions with input. The next generation of quiz.
-
-* [BulkCorrector](https://bulkcorrector.com)
-
-Correct the grammar of an entire book in 5 minutes.
-
-### Visitor count
-
-<img src="https://profile-counter.glitch.me/Melvynx/count.svg" />
-
-Added the `Mon 3 Jan 2022`
-
-Last update on Thu Mar 28 2024
-
-**279 day before 2025 ⏱** days before new years
-
-🤖 This README.md is updated with cruelty, by Gabot ❤️
-
-<!--
-**VictoireMukovi/VictoireMukovi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 Je travaille actuellement sur des project Flask, Django ...
+- 🌱 J'apprends actuellement des choses incroyables ...
+- 👯 J'aide les gens à devenir programmeurs au sein du groupe GACI ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: Je touche aussi au .net avec C#, au Python ...
+
+### Me joindre :
+
+[![img_contact](./img/globe-light.svg)](https://web.facebook.com/victoire.mupikano#gh-light-mode-only)
+[![img_contact](./img/globe-dark.svg)](https://web.facebook.com/victoire.mupikano#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/kasereka-ushindi-b4628a239/#gh-light-mode-only)
+[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kasereka-ushindi-b4628a239/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![img_contact](./img/instagram-light.svg)](https://www.instagram.com/victoirempkn#gh-light-mode-only)
+[![img_contact](./img/instagram-dark.svg)](https://www.instagram.com/victoirempkn#gh-dark-mode-only)
+
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="padding-right:10px;" />]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:11px;" />]
+
+
+### ⭐ GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victoiremupikano&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
